@@ -1,26 +1,8 @@
-# Medibuddy: Smart Disease Predictor
-
-## Sample images of the web application
-
-### Home Page
-<img src="images/Sample_Web_App_Images/sample1.png" alt="My cool logo"/>
-<br>
-
-### Diabetes Predictor
-<img src="images/Sample_Web_App_Images/sample2.png" alt="My cool logo"/>
-<br>
-
-### Breast Cancer Predictor
-<img src="images/Sample_Web_App_Images/sample3.png" alt="My cool logo"/>
-<br>
-
-### Malaria Predictor
-<img src="images/Sample_Web_App_Images/sample4.png" alt="My cool logo"/>
-<br>
-
-### Negative Result Page
-<img src="images/Sample_Web_App_Images/sample5.png" alt="My cool logo"/>
-<br>
-
-### Positive Result Page
-<img src="images/Sample_Web_App_Images/sample6.png" alt="My cool logo"/>
+![covid](https://github.com/invincible2511/Family-Doctor---Smart-Disease-Prediction-System/assets/74676573/0ce69343-5b6b-4832-a1db-9c409afbaf61)
+![covidresult](https://github.com/invincible2511/Family-Doctor---Smart-Disease-Prediction-System/assets/74676573/2519e67c-9a2a-4b04-ba13-61f3acc6a47a)
+![dibetes](https://github.com/invincible2511/Family-Doctor---Smart-Disease-Prediction-System/assets/74676573/3f518e3e-7cb1-482c-87aa-0e673b60605e)
+![heart](https://github.com/invincible2511/Family-Doctor---Smart-Disease-Prediction-System/assets/74676573/f290beab-a61a-45db-b5a2-baf2e91ed76e)
+![home](https://github.com/invincible2511/Family-Doctor---Smart-Disease-Prediction-System/assets/74676573/5aa625b0-6eab-409c-94c0-34952935625c)
+![kidney](https://github.com/invincible2511/Family-Doctor---Smart-Disease-Prediction-System/assets/74676573/3aa8de88-459b-4074-8fce-65c5cf28baa9)
+![liver](https://github.com/invincible2511/Family-Doctor---Smart-Disease-Prediction-System/assets/74676573/2eed3bef-666b-4341-8eba-8cd898bd9253)
+![bc](https://github.com/invincible2511/Family-Doctor---Smart-Disease-Prediction-System/assets/74676573/09fff8e3-4501-4da3-99aa-bd88d897ff28)
